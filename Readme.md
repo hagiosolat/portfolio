@@ -1,6 +1,6 @@
 # Taiwo OLADIPUPO 👋
 
-**Senior Flutter Developer**  
+**Flutter Developer**  
 Building scalable, real-time mobile applications using **Flutter, Firebase, and WebRTC**.
 
 🔹 5+ years building production-grade apps  
