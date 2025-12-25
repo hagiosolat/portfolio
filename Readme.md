@@ -9,7 +9,7 @@ Building scalable, real-time mobile applications using **Flutter, Firebase, and 
 
 📍 Remote / Global  
 📫 Email: samuelt4christ@gmail.com  
-🔗 LinkedIn: https://linkedin.com/in/yourname
+🔗 LinkedIn: https://www.linkedin.com/in/taiwo-oladipupo-02aa0b1a5/
 
 
 
